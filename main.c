@@ -17,6 +17,8 @@ int main()
 
     printf("%d\n",r2);
 
+    printf("end\n");
+
     return 0;
 }
 
